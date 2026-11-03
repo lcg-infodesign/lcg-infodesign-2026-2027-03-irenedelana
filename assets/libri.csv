@@ -1,0 +1,583 @@
+Gender,Age,Department,Amount of time spent reading books per day,Reason for reading books,How to manage books for reading,Number of e-books you read last two years,Number of printed books you read last two years,Favorite books for reading to spend leisure time,Which type of books do you read most of the time,What is the change that you fell after reading books,Who influenced you to read books,Which language books do you like to read,Where do you read printed books,Do you read Newspaper,The format that you used for reading books,Frequency of reading books
+Male,22,CSE,4,Academic Purpose,E-books,11-15,11-15,Biography,Academic,Increase Academic Performance,Teachers,English,Home,No,Both,On everyday basis
+Male,23,CSE,2,Keep me informative,E-books,More than 20,1-5,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,A few times a month
+Female,21,CSE,1,Entertainment Purpose,Borrow,1-5,1-5,Others,Academic,Feel Relax,Friends,Bangla,Home,Yes,Printed,A few times a week
+Male,23,CSE,1,Keep me informative,E-books,More than 20,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,Less than once a year
+Male,21,CSE,4,Keep me informative,E-books,6-10,6-10,Biography,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,E-books,On everyday basis
+Male,22,SWE,1,Academic Purpose,E-books,More than 20,1-5,Biography,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,A few times a month
+Male,23,CSE,1,Academic Purpose,E-books,1-5,6-10,Non-Fiction,Academic,Increase Creative Thinking,Parents,English,Home,Yes,Both,On everyday basis
+Male,23,CSE,2,Keep me informative,Others,11-15,6-10,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,A few times a week
+Male,23,CSE,1,Keep me informative,E-books,1-5,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Library,No,E-books,On everyday basis
+Female,21,English,3,Entertainment Purpose,Borrow,6-10,More than 20,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,20,CSE,3,Academic Purpose,E-books,6-10,1-5,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,No,Both,A few times a week
+Female,20,Pharmacy,1,Keep me informative,Buy,1-5,6-10,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Printed,A few times a week
+Male,20,SWE,1,Academic Purpose,Buy,6-10,1-5,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a month
+Female,20,English,1,To increase my English vocabulary knowledge,Buy,None,1-5,Fiction,Academic,Increase Academic Performance,Parents,Bangla,Library,No,Printed,Less than once a year
+Male,21,English,5,Academic Purpose,Buy,More than 20,More than 20,Others,Academic,Increase Academic Performance,Teachers,Bangla,Library,No,Printed,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,More than 20,1-5,Others,Non-Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,21,CSE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Problem Solving Skill,Parents,Bangla,Home,Yes,Both,A few times a week
+Male,23,Pharmacy,1,Academic Purpose,Others,None,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Printed,On everyday basis
+Male,19,SWE,1,Entertainment Purpose,E-books,1-5,6-10,Others,Academic,Increase Problem Solving Skill,Parents,English,Home,Yes,E-books,On everyday basis
+Male,23,SWE,2,Academic Purpose,Buy,More than 20,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,23,CSE,1,Entertainment Purpose,Buy,None,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,19,SWE,4,To increase my English vocabulary knowledge,E-books,6-10,1-5,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,On everyday basis
+Male,22,SWE,1,Entertainment Purpose,E-books,6-10,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,On everyday basis
+Female,22,CSE,1,Entertainment Purpose,E-books,11-15,6-10,Fiction,Academic,Increase Creative Thinking,Teachers,Bangla,Library,Yes,E-books,Once or twice a year
+Male,21,SWE,2,Keep me informative,E-books,6-10,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,20,English,2,Academic Purpose,Buy,None,More than 20,Non-Fiction,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,E-books,On everyday basis
+Male,23,SWE,1,To increase my English vocabulary knowledge,E-books,1-5,1-5,Biography,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,Both,Less than once a year
+Female,22,SWE,1,Entertainment Purpose,E-books,1-5,1-5,Fiction,Non-Academic,Feel Relax,Friends,Bangla,Home,No,Printed,A few times a month
+Male,21,SWE,1,Academic Purpose,Buy,None,More than 20,Fiction,Academic,Increase Problem Solving Skill,Teachers,Bangla,Home,No,Printed,On everyday basis
+Male,22,SWE,2,Academic Purpose,Borrow,1-5,1-5,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,Printed,On everyday basis
+Male,23,EEE,2,Academic Purpose,Others,11-15,16-20,Others,Academic,Increase Academic Performance,Teachers,English,During Travel,Yes,Both,A few times a month
+Male,22,CSE,2,Academic Purpose,Buy,More than 20,1-5,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,On everyday basis
+Female,23,CSE,1,Academic Purpose,E-books,1-5,1-5,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,23,CSE,1,Academic Purpose,E-books,6-10,1-5,Fiction,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,A few times a month
+Female,22,Pharmacy,1,Academic Purpose,Others,1-5,6-10,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Male,23,CSE,2,Keep me informative,E-books,1-5,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a month
+Male,21,CSE,1,Academic Purpose,E-books,More than 20,More than 20,Fiction,Non-Academic,Feel Relax,Parents,Bangla,Home,Yes,E-books,A few times a week
+Male,21,CSE,2,Keep me informative,Buy,More than 20,11-15,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,CSE,1,Academic Purpose,Others,6-10,11-15,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,23,CSE,4,Academic Purpose,E-books,1-5,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,E-books,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,More than 20,1-5,Others,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,E-books,A few times a week
+Male,20,CSE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Printed,A few times a week
+Male,22,BBA,2,Keep me informative,E-books,1-5,1-5,Fiction,Non-Academic,Feel Relax,Friends,Bangla,Home,Yes,E-books,A few times a week
+Male,21,CSE,1,Academic Purpose,Buy,1-5,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,During Travel,No,Printed,A few times a week
+Male,22,CSE,1,Academic Purpose,Others,1-5,1-5,Biography,Academic,Increase Academic Performance,Teachers,English,Home,No,Both,Less than once a year
+Male,22,CSE,1,Academic Purpose,Buy,1-5,1-5,Fiction,Academic,Increase Problem Solving Skill,Parents,English,Home,Yes,Both,On everyday basis
+Male,23,CSE,2,Academic Purpose,E-books,More than 20,11-15,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,E-books,On everyday basis
+Male,22,CSE,1,Keep me informative,E-books,6-10,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,22,CSE,1,Entertainment Purpose,Buy,1-5,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,23,CSE,1,Keep me informative,Others,None,1-5,Others,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,No,Both,A few times a month
+Female,23,CSE,2,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Creative Thinking,Teachers,Bangla,Library,Yes,Both,A few times a week
+Female,22,NFE,1,To increase my English vocabulary knowledge,Buy,1-5,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,21,CSE,1,Entertainment Purpose,Buy,1-5,1-5,Non-Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,A few times a month
+Male,21,CSE,2,Entertainment Purpose,Buy,More than 20,16-20,Fiction,Non-Academic,Increase Problem Solving Skill,Parents,Bangla,Home,Yes,Printed,On everyday basis
+Male,20,CSE,3,Keep me informative,E-books,6-10,6-10,Others,Academic,Increase Academic Performance,Parents,Bangla,Home,Yes,Both,On everyday basis
+Female,21,Others,3,Keep me informative,Borrow,1-5,6-10,Others,Academic,Feel Relax,Teachers,Bangla,Library,Yes,Both,A few times a week
+Male,23,CSE,1,Academic Purpose,Others,1-5,1-5,Fiction,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,E-books,Once or twice a year
+Male,22,EEE,6,Keep me informative,Buy,16-20,16-20,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,Less than once a year
+Male,22,CSE,1,Academic Purpose,E-books,6-10,11-15,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,A few times a month
+Male,22,Pharmacy,1,Academic Purpose,Borrow,None,6-10,Politics,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Printed,On everyday basis
+Female,21,CSE,2,To increase my English vocabulary knowledge,Borrow,11-15,11-15,Non-Fiction,Academic,Increase Academic Performance,Parents,English,Library,Yes,Printed,Less than once a year
+Male,21,CSE,1,Academic Purpose,Buy,None,6-10,Politics,Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,E-books,A few times a week
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,E-books,A few times a month
+Male,21,CSE,3,Keep me informative,E-books,More than 20,More than 20,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,18,CSE,1,Academic Purpose,Buy,1-5,6-10,Politics,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,23,CSE,1,Keep me informative,E-books,6-10,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,A few times a week
+Male,23,CSE,4,To increase my English vocabulary knowledge,Buy,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Printed,Less than once a year
+Male,23,CSE,1,Keep me informative,E-books,More than 20,1-5,Non-Fiction,Non-Academic,Feel Relax,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,22,CSE,1,Keep me informative,Buy,More than 20,More than 20,Others,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,On everyday basis
+Male,22,CSE,1,Keep me informative,Buy,1-5,1-5,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,20,CSE,4,Academic Purpose,Borrow,1-5,More than 20,Biography,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,22,NFE,1,Academic Purpose,Others,None,1-5,Biography,Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,22,CSE,1,Keep me informative,Others,1-5,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,23,NFE,1,Academic Purpose,Others,None,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Male,23,CSE,1,Academic Purpose,E-books,More than 20,1-5,Biography,Academic,Increase Academic Performance,Friends,English,Library,Yes,E-books,Less than once a year
+Male,23,CSE,1,Entertainment Purpose,E-books,More than 20,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,E-books,On everyday basis
+Male,23,EEE,1,Keep me informative,Borrow,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,EEE,2,Keep me informative,E-books,11-15,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,22,CSE,1,Academic Purpose,Buy,11-15,6-10,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,No,Printed,A few times a month
+Male,19,CSE,3,Keep me informative,Others,6-10,11-15,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Library,No,Both,A few times a month
+Male,23,CSE,4,Keep me informative,E-books,16-20,1-5,Biography,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Library,Yes,Both,On everyday basis
+Male,21,SWE,1,Keep me informative,E-books,More than 20,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,A few times a week
+Female,22,NFE,1,Entertainment Purpose,E-books,More than 20,6-10,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a month
+Male,22,CSE,3,Academic Purpose,E-books,11-15,16-20,Non-Fiction,Academic,Increase Academic Performance,Parents,English,Home,Yes,E-books,A few times a month
+Female,23,NFE,1,Entertainment Purpose,E-books,1-5,1-5,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Male,23,English,1,Keep me informative,E-books,1-5,More than 20,Biography,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,21,Others,3,Academic Purpose,E-books,6-10,6-10,Others,Academic,Increase Problem Solving Skill,Parents,Bangla,Home,No,Printed,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Library,No,E-books,A few times a week
+Male,22,CSE,1,Academic Purpose,Others,None,1-5,Politics,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,6-10,1-5,Others,Academic,Increase Academic Performance,Friends,Bangla,During Travel,No,Printed,A few times a month
+Male,23,CSE,1,Academic Purpose,E-books,11-15,1-5,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,Yes,E-books,A few times a month
+Male,23,CSE,1,Entertainment Purpose,E-books,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Teachers,Bangla,Home,No,Both,A few times a month
+Female,21,CSE,1,Keep me informative,Buy,None,1-5,Others,Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,More than 20,6-10,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,22,SWE,3,Academic Purpose,E-books,11-15,1-5,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,No,Printed,A few times a month
+Male,23,EEE,2,Keep me informative,Buy,1-5,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,A few times a week
+Male,21,CSE,1,Academic Purpose,E-books,1-5,None,Others,Academic,Increase Creative Thinking,Friends,English,Home,No,E-books,A few times a week
+Male,22,CSE,1,Academic Purpose,E-books,6-10,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,On everyday basis
+Male,20,CSE,7,Academic Purpose,E-books,6-10,6-10,Fiction,Academic,Increase Academic Performance,Parents,Bangla,Library,Yes,Both,On everyday basis
+Male,22,CSE,2,Academic Purpose,Borrow,11-15,16-20,Fiction,Academic,Increase Problem Solving Skill,Parents,English,Library,Yes,Both,On everyday basis
+Male,18,CSE,2,Academic Purpose,Buy,6-10,11-15,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Male,22,CSE,3,Academic Purpose,E-books,More than 20,More than 20,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,19,CSE,1,Keep me informative,E-books,6-10,1-5,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,23,CSE,1,Academic Purpose,E-books,11-15,1-5,Fiction,Academic,Increase Academic Performance,Teachers,English,Library,Yes,E-books,A few times a month
+Male,20,CSE,1,To increase my English vocabulary knowledge,Buy,1-5,More than 20,Others,Non-Academic,Increase Academic Performance,Self-Decision,Bangla,Library,Yes,Printed,A few times a week
+Male,21,SWE,1,Entertainment Purpose,Used-all,6-10,More than 20,Biography,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,English,1,Entertainment Purpose,Used-all,11-15,6-10,Fiction,Non-Academic,Feel Relax,Parents,Others,Home,No,Printed,A few times a week
+Female,20,English,2,Academic Purpose,Borrow,16-20,1-5,Biography,Academic,Feel Relax,Parents,English,Home,No,Both,A few times a week
+Male,22,English,2,Entertainment Purpose,E-books,1-5,1-5,Fiction,Non-Academic,Increase Problem Solving Skill,Friends,English,Library,No,Both,A few times a month
+Male,21,English,4,Keep me informative,Used-all,6-10,More than 20,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,19,SWE,1,Keep me informative,E-books,None,More than 20,Others,Academic,Feel Relax,Friends,English,Home,Yes,E-books,On everyday basis
+Female,21,English,1,To increase my English vocabulary knowledge,E-books,6-10,1-5,Biography,Non-Academic,Feel Relax,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,21,English,2,Academic Purpose,Buy,1-5,None,Politics,Non-Academic,Increase Creative Thinking,Friends,English,Library,Yes,Printed,A few times a week
+Female,21,English,4,To increase my English vocabulary knowledge,Used-all,1-5,1-5,Biography,Academic,Increase Problem Solving Skill,Teachers,English,Home,Yes,Both,On everyday basis
+Male,22,SWE,1,Keep me informative,Used-all,11-15,6-10,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,During Travel,Yes,Both,A few times a month
+Female,23,English,1,Academic Purpose,Used-all,1-5,11-15,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,23,English,1,Keep me informative,Used-all,11-15,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Friends,English,Home,Yes,Printed,On everyday basis
+Female,20,CSE,4,Keep me informative,Used-all,More than 20,6-10,Biography,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,23,CSE,4,Keep me informative,Others,More than 20,More than 20,Politics,Non-Academic,Feel Relax,Self-Decision,Others,During Travel,Yes,Both,On everyday basis
+Male,21,CSE,1,Academic Purpose,Used-all,More than 20,6-10,Others,Academic,Increase Academic Performance,Self-Decision,English,Library,Yes,Both,A few times a week
+Female,21,English,3,Keep me informative,Buy,1-5,6-10,Non-Fiction,Academic,Increase Creative Thinking,Parents,English,Home,Yes,Printed,On everyday basis
+Male,22,CSE,1,Keep me informative,E-books,6-10,1-5,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,A few times a week
+Male,22,CSE,1,Academic Purpose,Buy,1-5,None,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,3,Academic Purpose,E-books,More than 20,6-10,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,22,CSE,4,Keep me informative,Used-all,More than 20,More than 20,Others,Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Both,On everyday basis
+Female,21,CSE,1,Academic Purpose,E-books,6-10,None,Others,Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,1,Entertainment Purpose,E-books,More than 20,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,A few times a month
+Male,20,CSE,2,Keep me informative,E-books,6-10,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Male,22,CSE,2,Academic Purpose,E-books,1-5,11-15,Others,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,No,Both,On everyday basis
+Male,22,CSE,1,To increase my English vocabulary knowledge,E-books,More than 20,6-10,Others,Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,3,Keep me informative,Used-all,1-5,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,21,CSE,2,Keep me informative,Used-all,6-10,1-5,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Library,Yes,Both,A few times a week
+Male,21,CSE,1,Academic Purpose,Used-all,None,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a month
+Male,22,CSE,4,Academic Purpose,Buy,1-5,More than 20,Fiction,Academic,Increase Problem Solving Skill,Teachers,Bangla,Home,Yes,Printed,A few times a week
+Male,22,CSE,2,Keep me informative,E-books,6-10,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a month
+Male,21,CSE,2,Keep me informative,E-books,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,E-books,A few times a month
+Male,21,CSE,1,Keep me informative,E-books,1-5,1-5,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,E-books,A few times a week
+Male,23,CSE,1,Entertainment Purpose,Borrow,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Friends,English,Home,Yes,Printed,On everyday basis
+Male,22,English,1,Academic Purpose,E-books,More than 20,More than 20,Others,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,20,English,8,To increase my English vocabulary knowledge,Buy,11-15,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Both,On everyday basis
+Female,20,English,1,To increase my English vocabulary knowledge,Used-all,1-5,None,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,During Travel,Yes,Both,A few times a week
+Female,20,English,2,Academic Purpose,Buy,6-10,6-10,Fiction,Academic,Feel Relax,Self-Decision,English,Home,No,Printed,A few times a week
+Male,22,SWE,1,Academic Purpose,E-books,6-10,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Male,21,CSE,1,Entertainment Purpose,Used-all,1-5,None,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,Once or twice a year
+Male,22,English,2,Keep me informative,Used-all,16-20,More than 20,Biography,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Printed,On everyday basis
+Male,23,English,2,Keep me informative,Used-all,More than 20,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Parents,English,Home,Yes,Both,A few times a week
+Female,21,English,1,Entertainment Purpose,E-books,More than 20,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Female,18,English,2,Academic Purpose,Used-all,1-5,1-5,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,A few times a month
+Female,19,English,1,Academic Purpose,Used-all,More than 20,More than 20,Others,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a week
+Female,23,English,2,Academic Purpose,Buy,1-5,11-15,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,CSE,1,Academic Purpose,E-books,More than 20,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Library,Yes,Both,A few times a month
+Male,21,English,1,Academic Purpose,Others,None,1-5,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,22,English,1,Academic Purpose,Buy,More than 20,1-5,Fiction,Academic,Increase Creative Thinking,Teachers,English,Home,No,Printed,A few times a week
+Male,20,CSE,1,Keep me informative,Used-all,None,None,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Printed,A few times a week
+Male,21,EEE,1,Academic Purpose,Buy,1-5,6-10,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,22,MCT,1,Academic Purpose,E-books,1-5,None,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,A few times a week
+Male,22,MCT,1,Keep me informative,Used-all,6-10,1-5,Fiction,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Both,A few times a month
+Male,20,MCT,1,Academic Purpose,E-books,None,1-5,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Male,21,MCT,1,Entertainment Purpose,Buy,1-5,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,22,MCT,1,Keep me informative,Used-all,6-10,6-10,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,20,CSE,2,Academic Purpose,E-books,1-5,11-15,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,On everyday basis
+Female,22,MCT,1,Academic Purpose,Others,1-5,1-5,Biography,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Home,No,Both,A few times a month
+Male,21,MCT,1,Academic Purpose,Used-all,1-5,11-15,Fiction,Academic,Increase Academic Performance,Friends,English,Home,No,Both,A few times a month
+Male,21,MCT,1,Keep me informative,Buy,1-5,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Printed,A few times a week
+Male,22,MCT,1,Academic Purpose,E-books,None,1-5,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,Once or twice a year
+Male,22,MCT,1,Keep me informative,E-books,More than 20,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Female,21,English,4,To increase my English vocabulary knowledge,Buy,More than 20,16-20,Fiction,Non-Academic,Increase Problem Solving Skill,Teachers,English,Home,Yes,Both,On everyday basis
+Female,21,NFE,2,Entertainment Purpose,E-books,1-5,1-5,Biography,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a month
+Male,22,MCT,1,Academic Purpose,Used-all,1-5,1-5,Non-Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Printed,A few times a week
+Female,19,MCT,3,Keep me informative,Used-all,1-5,More than 20,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a month
+Male,21,MCT,1,Entertainment Purpose,Others,1-5,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Male,22,CSE,2,Entertainment Purpose,Used-all,More than 20,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,E-books,A few times a week
+Male,21,CSE,2,To increase my English vocabulary knowledge,E-books,11-15,16-20,Fiction,Non-Academic,Feel Relax,Self-Decision,English,Home,No,Both,A few times a week
+Male,20,CSE,3,Academic Purpose,Buy,None,None,Politics,Academic,Increase Creative Thinking,Friends,English,Home,Yes,Printed,On everyday basis
+Male,21,CSE,4,Academic Purpose,Used-all,11-15,6-10,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,2,Keep me informative,Used-all,More than 20,More than 20,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Non-Fiction,Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,E-books,On everyday basis
+Male,23,CSE,1,Academic Purpose,Others,11-15,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,20,CSE,1,Academic Purpose,E-books,1-5,6-10,Politics,Academic,Feel Relax,Parents,Bangla,Home,Yes,Both,Once or twice a year
+Male,22,CSE,4,Academic Purpose,E-books,More than 20,More than 20,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Printed,On everyday basis
+Female,21,CSE,3,Keep me informative,Used-all,None,6-10,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Printed,A few times a month
+Male,21,CSE,1,Keep me informative,Used-all,6-10,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Male,22,CSE,1,Academic Purpose,Used-all,1-5,More than 20,Others,Academic,Feel Relax,Self-Decision,Others,Home,Yes,Both,A few times a week
+Male,21,CSE,2,Academic Purpose,Used-all,6-10,11-15,Others,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Printed,A few times a week
+Male,22,CSE,1,Keep me informative,E-books,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Friends,English,Home,Yes,E-books,Once or twice a year
+Male,20,CSE,1,Entertainment Purpose,Used-all,More than 20,11-15,Fiction,Non-Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,20,CSE,1,Entertainment Purpose,Buy,More than 20,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,CSE,3,Keep me informative,Buy,More than 20,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,21,CSE,1,Keep me informative,E-books,More than 20,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,E-books,A few times a week
+Male,21,CSE,2,Academic Purpose,E-books,11-15,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,E-books,A few times a month
+Male,21,CSE,1,Entertainment Purpose,Borrow,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Printed,Once or twice a year
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Teachers,Bangla,Library,No,Both,A few times a week
+Male,22,CSE,2,Academic Purpose,Buy,None,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,23,MCT,1,Academic Purpose,Buy,None,1-5,Politics,Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,23,CSE,1,Keep me informative,E-books,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,23,CSE,1,Keep me informative,E-books,6-10,6-10,Politics,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Both,On everyday basis
+Male,22,CSE,2,Keep me informative,E-books,11-15,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,E-books,On everyday basis
+Male,21,CSE,1,Academic Purpose,E-books,1-5,1-5,Non-Fiction,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,Less than once a year
+Male,22,CSE,1,Keep me informative,Others,None,None,Others,Academic,Feel Relax,Self-Decision,English,During Travel,Yes,Both,Less than once a year
+Male,18,MCT,4,Entertainment Purpose,Others,More than 20,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,English,Home,No,E-books,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,1-5,6-10,Biography,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,E-books,On everyday basis
+Male,22,CSE,1,Academic Purpose,Buy,6-10,1-5,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,No,Printed,A few times a week
+Female,21,CSE,1,Keep me informative,E-books,6-10,1-5,Fiction,Non-Academic,Increase Problem Solving Skill,Teachers,Bangla,Home,Yes,Both,A few times a week
+Male,23,Textile,2,Academic Purpose,Used-all,More than 20,More than 20,Others,Academic,Feel Relax,Teachers,Bangla,Home,Yes,Both,On everyday basis
+Male,21,EEE,1,Academic Purpose,Used-all,6-10,6-10,Others,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Printed,On everyday basis
+Male,23,EEE,4,Keep me informative,Others,More than 20,More than 20,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,Both,On everyday basis
+Male,22,EEE,2,Academic Purpose,Buy,6-10,6-10,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,No,Both,On everyday basis
+Male,19,EEE,1,Keep me informative,Buy,6-10,6-10,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,23,EEE,1,Academic Purpose,Used-all,6-10,6-10,Biography,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,23,EEE,4,Entertainment Purpose,E-books,More than 20,6-10,Fiction,Non-Academic,Feel Relax,Self-Decision,English,Home,No,E-books,On everyday basis
+Male,22,EEE,1,Academic Purpose,E-books,11-15,16-20,Biography,Academic,Increase Creative Thinking,Friends,English,Library,Yes,Both,On everyday basis
+Male,22,MCT,6,To increase my English vocabulary knowledge,E-books,None,None,Biography,Academic,Increase Problem Solving Skill,Friends,Bangla,Home,Yes,Printed,On everyday basis
+Female,22,Others,4,Academic Purpose,E-books,More than 20,More than 20,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,On everyday basis
+Male,22,EEE,3,Academic Purpose,Used-all,6-10,11-15,Others,Academic,Increase Problem Solving Skill,Teachers,Bangla,Home,No,Both,On everyday basis
+Male,22,MCT,1,Academic Purpose,Used-all,None,1-5,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Female,22,CSE,2,Academic Purpose,Borrow,None,More than 20,Fiction,Academic,Feel Relax,Parents,Bangla,Home,No,Printed,A few times a month
+Male,22,NFE,1,Academic Purpose,Used-all,6-10,1-5,Others,Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,A few times a week
+Female,22,CSE,4,Academic Purpose,Used-all,More than 20,More than 20,Non-Fiction,Academic,Increase Problem Solving Skill,Parents,English,Library,Yes,Both,Less than once a year
+Male,22,EEE,3,Academic Purpose,Buy,6-10,6-10,Others,Academic,Increase Academic Performance,Parents,English,Home,Yes,Printed,On everyday basis
+Male,22,MCT,1,Academic Purpose,Used-all,11-15,11-15,Others,Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Both,A few times a week
+Male,22,MCT,1,Academic Purpose,Used-all,1-5,1-5,Others,Academic,Increase Academic Performance,Teachers,Bangla,Library,No,Printed,A few times a week
+Male,22,English,1,Keep me informative,Others,6-10,1-5,Others,Non-Academic,Increase Academic Performance,Self-Decision,Others,During Travel,Yes,Both,A few times a month
+Male,23,Civil,4,To increase my English vocabulary knowledge,Others,6-10,1-5,Biography,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,22,Civil,1,Academic Purpose,E-books,11-15,1-5,Biography,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,E-books,On everyday basis
+Male,22,Civil,1,Academic Purpose,Used-all,6-10,6-10,Fiction,Academic,Increase Academic Performance,Teachers,Bangla,During Travel,Yes,Both,On everyday basis
+Male,20,Civil,2,Keep me informative,Used-all,16-20,More than 20,Fiction,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,21,Civil,1,Academic Purpose,E-books,1-5,11-15,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,21,Civil,4,Academic Purpose,Buy,More than 20,6-10,Politics,Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Female,23,Civil,1,Keep me informative,Used-all,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Printed,A few times a week
+Female,22,Civil,4,Keep me informative,Used-all,None,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a week
+Male,21,Civil,1,Keep me informative,E-books,6-10,11-15,Biography,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,23,Civil,1,Academic Purpose,Others,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Printed,On everyday basis
+Male,23,MCT,3,Keep me informative,E-books,16-20,11-15,Biography,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,On everyday basis
+Male,19,CSE,2,Academic Purpose,Used-all,6-10,1-5,Others,Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,Once or twice a year
+Male,22,Civil,1,Keep me informative,E-books,6-10,1-5,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Female,22,CSE,2,Academic Purpose,E-books,6-10,1-5,Fiction,Academic,Increase Creative Thinking,Parents,Bangla,Library,Yes,Both,A few times a week
+Male,23,CSE,1,Academic Purpose,E-books,None,None,Others,Academic,Increase Creative Thinking,Teachers,Bangla,Library,No,E-books,A few times a month
+Male,21,CSE,1,Academic Purpose,E-books,None,1-5,Non-Fiction,Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Female,22,NFE,1,Academic Purpose,Others,6-10,1-5,Non-Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,A few times a week
+Female,21,NFE,3,Academic Purpose,Used-all,1-5,More than 20,Non-Fiction,Non-Academic,Increase Academic Performance,Friends,Others,During Travel,No,Both,A few times a week
+Female,21,MCT,4,Keep me informative,Used-all,More than 20,16-20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,1,Academic Purpose,Used-all,6-10,1-5,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,A few times a month
+Female,21,CSE,3,Keep me informative,Used-all,1-5,1-5,Others,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,A few times a week
+Male,21,CSE,2,Academic Purpose,Used-all,More than 20,11-15,Politics,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,21,CSE,2,Entertainment Purpose,Used-all,More than 20,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,CSE,2,Academic Purpose,E-books,More than 20,More than 20,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,21,CSE,2,Academic Purpose,Others,11-15,11-15,Politics,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Politics,Academic,Increase Academic Performance,Friends,Bangla,Home,No,Printed,On everyday basis
+Female,20,CSE,3,To increase my English vocabulary knowledge,Used-all,None,6-10,Others,Academic,Feel Relax,Friends,Bangla,Library,No,Both,On everyday basis
+Male,21,CSE,2,Academic Purpose,Borrow,6-10,1-5,Biography,Non-Academic,Increase Problem Solving Skill,Friends,Bangla,Library,Yes,Printed,A few times a month
+Male,22,CSE,1,Academic Purpose,E-books,6-10,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,Once or twice a year
+Male,21,CSE,1,Academic Purpose,E-books,1-5,More than 20,Others,Academic,Increase Problem Solving Skill,Parents,Bangla,Library,Yes,Both,On everyday basis
+Female,21,CSE,3,To increase my English vocabulary knowledge,Buy,None,16-20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,A few times a month
+Male,21,CSE,2,Academic Purpose,Used-all,6-10,6-10,Fiction,Non-Academic,Increase Problem Solving Skill,Parents,English,Home,Yes,Both,On everyday basis
+Male,20,CSE,2,Academic Purpose,Used-all,6-10,More than 20,Fiction,Academic,Increase Problem Solving Skill,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,20,CSE,1,Academic Purpose,E-books,6-10,6-10,Fiction,Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,A few times a week
+Male,22,CSE,1,Academic Purpose,Used-all,6-10,1-5,Fiction,Academic,Increase Problem Solving Skill,Teachers,English,Home,Yes,Both,A few times a week
+Male,22,CSE,1,Keep me informative,Used-all,6-10,1-5,Fiction,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,A few times a month
+Male,22,CSE,2,Academic Purpose,Others,1-5,6-10,Others,Academic,Increase Creative Thinking,Parents,Bangla,Library,No,Both,A few times a week
+Male,22,CSE,2,Academic Purpose,E-books,6-10,6-10,Non-Fiction,Academic,Feel Relax,Friends,English,Home,Yes,E-books,A few times a month
+Male,21,CSE,3,Keep me informative,Used-all,1-5,11-15,Biography,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Printed,A few times a month
+Male,22,CSE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,No,E-books,A few times a month
+Male,21,CSE,1,Keep me informative,E-books,11-15,6-10,Biography,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,Both,A few times a week
+Female,20,CSE,2,Academic Purpose,Used-all,6-10,11-15,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,During Travel,Yes,Both,A few times a week
+Male,21,CSE,1,Academic Purpose,E-books,6-10,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,21,CSE,1,Academic Purpose,Buy,None,1-5,Biography,Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Both,Less than once a year
+Female,21,CSE,2,To increase my English vocabulary knowledge,Used-all,11-15,11-15,Fiction,Non-Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,E-books,A few times a week
+Male,21,CSE,1,Keep me informative,E-books,More than 20,6-10,Biography,Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,21,CSE,1,Academic Purpose,Others,None,1-5,Politics,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Female,21,CSE,1,Keep me informative,Used-all,1-5,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Male,21,CSE,1,Keep me informative,E-books,More than 20,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,21,CSE,1,Keep me informative,Buy,6-10,6-10,Others,Non-Academic,Increase Problem Solving Skill,Parents,English,Home,Yes,Both,A few times a month
+Male,20,CSE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Non-Academic,Increase Academic Performance,Parents,English,Home,Yes,Both,A few times a week
+Male,22,CSE,7,To increase my English vocabulary knowledge,Used-all,More than 20,More than 20,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Both,On everyday basis
+Male,21,CSE,1,Academic Purpose,Borrow,6-10,16-20,Biography,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Female,19,CSE,1,Entertainment Purpose,Used-all,More than 20,More than 20,Biography,Non-Academic,Feel Relax,Self-Decision,English,Home,No,E-books,On everyday basis
+Female,21,NFE,2,Academic Purpose,Buy,1-5,1-5,Fiction,Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,20,Others,3,Academic Purpose,E-books,1-5,6-10,Biography,Academic,Increase Creative Thinking,Teachers,Bangla,Home,No,E-books,On everyday basis
+Male,23,Others,1,Academic Purpose,Borrow,1-5,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,English,Library,No,Both,On everyday basis
+Female,21,Others,1,Academic Purpose,E-books,1-5,11-15,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,21,SWE,1,Academic Purpose,Used-all,None,None,Others,Academic,Increase Creative Thinking,Teachers,English,Home,No,Both,On everyday basis
+Female,22,Others,1,Entertainment Purpose,Buy,1-5,16-20,Fiction,Non-Academic,Feel Relax,Self-Decision,English,Home,Yes,Both,On everyday basis
+Female,18,Others,1,To increase my English vocabulary knowledge,Used-all,1-5,11-15,Fiction,Non-Academic,Feel Relax,Parents,Bangla,Home,No,Printed,A few times a month
+Female,19,Others,1,Academic Purpose,Used-all,None,6-10,Others,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,Printed,On everyday basis
+Male,20,Others,1,Keep me informative,Borrow,None,None,Others,Non-Academic,Feel Relax,Self-Decision,English,Home,Yes,Both,A few times a week
+Female,23,CSE,1,Academic Purpose,Borrow,1-5,1-5,Biography,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,A few times a week
+Female,22,NFE,2,Academic Purpose,Others,None,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,20,EEE,4,Academic Purpose,Buy,6-10,More than 20,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Male,21,EEE,1,Academic Purpose,Borrow,16-20,1-5,Politics,Non-Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Printed,On everyday basis
+Male,20,English,2,To increase my English vocabulary knowledge,Used-all,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,21,EEE,2,Keep me informative,Buy,6-10,More than 20,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,2,Academic Purpose,E-books,1-5,11-15,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,21,CSE,2,Academic Purpose,Borrow,None,6-10,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Printed,On everyday basis
+Male,21,Textile,2,Keep me informative,Borrow,11-15,11-15,Biography,Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Printed,A few times a week
+Male,20,JMC,3,Keep me informative,Buy,None,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,21,EEE,2,Academic Purpose,Buy,11-15,More than 20,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,CSE,4,Keep me informative,Used-all,1-5,16-20,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Male,21,NFE,2,Academic Purpose,Used-all,None,More than 20,Biography,Academic,Increase Academic Performance,Parents,Bangla,Home,No,Printed,On everyday basis
+Male,21,CSE,3,Keep me informative,Buy,None,6-10,Others,Academic,Increase Problem Solving Skill,Friends,Others,Library,Yes,Both,On everyday basis
+Male,19,SWE,2,Academic Purpose,Used-all,1-5,More than 20,Others,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,21,EEE,2,Academic Purpose,Buy,None,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,23,Others,4,Keep me informative,Used-all,More than 20,More than 20,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,21,EEE,2,Keep me informative,Used-all,6-10,More than 20,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Printed,On everyday basis
+Male,23,CSE,4,Academic Purpose,Used-all,None,None,Others,Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,20,CSE,1,Keep me informative,Used-all,More than 20,11-15,Fiction,Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Both,On everyday basis
+Male,21,English,2,Academic Purpose,Used-all,1-5,6-10,Fiction,Academic,Increase Academic Performance,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,20,EEE,2,Keep me informative,Buy,None,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,21,Pharmacy,4,Academic Purpose,Used-all,1-5,6-10,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,EEE,4,Academic Purpose,Others,None,None,Others,Academic,Increase Creative Thinking,Parents,English,Library,No,Printed,On everyday basis
+Male,20,Civil,4,Academic Purpose,E-books,More than 20,None,Biography,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,22,CSE,1,Keep me informative,Buy,1-5,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Printed,On everyday basis
+Male,19,SWE,3,Academic Purpose,Used-all,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a week
+Male,20,Others,1,Academic Purpose,Used-all,None,16-20,Others,Academic,Increase Problem Solving Skill,Teachers,Bangla,Library,Yes,Printed,A few times a week
+Male,21,Others,1,Academic Purpose,Others,None,1-5,Politics,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Printed,Less than once a year
+Male,22,EEE,1,Academic Purpose,Used-all,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Parents,English,Home,No,Both,A few times a week
+Male,23,MCT,2,Entertainment Purpose,Buy,6-10,None,Politics,Non-Academic,Feel Relax,Parents,Bangla,Library,No,Printed,A few times a week
+Male,23,CSE,2,Keep me informative,Used-all,More than 20,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,22,CSE,1,Academic Purpose,Buy,1-5,More than 20,Fiction,Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Both,A few times a week
+Female,22,Others,1,Academic Purpose,Others,None,None,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,Once or twice a year
+Male,22,Civil,1,Academic Purpose,E-books,More than 20,6-10,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Printed,On everyday basis
+Female,22,CSE,3,To increase my English vocabulary knowledge,E-books,6-10,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,English,Library,Yes,Printed,A few times a week
+Male,22,CSE,1,Academic Purpose,Others,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Teachers,English,Home,No,Both,On everyday basis
+Male,22,CSE,1,Entertainment Purpose,Used-all,None,None,Politics,Academic,Increase Creative Thinking,Parents,Bangla,Home,No,Both,A few times a month
+Female,22,CSE,1,Keep me informative,E-books,16-20,6-10,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Female,22,Others,3,Academic Purpose,Used-all,More than 20,More than 20,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,CSE,1,Academic Purpose,E-books,More than 20,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,No,E-books,On everyday basis
+Male,22,CSE,1,To increase my English vocabulary knowledge,E-books,11-15,1-5,Biography,Academic,Increase Creative Thinking,Teachers,English,Library,No,Both,A few times a week
+Male,23,CSE,1,Academic Purpose,Buy,11-15,11-15,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,CSE,1,To increase my English vocabulary knowledge,Buy,None,6-10,Non-Fiction,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Home,No,Printed,On everyday basis
+Male,22,CSE,2,Keep me informative,E-books,6-10,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Others,Home,Yes,Both,A few times a week
+Male,23,CSE,1,Keep me informative,E-books,More than 20,More than 20,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,CSE,2,Academic Purpose,E-books,1-5,None,Others,Academic,Increase Academic Performance,Teachers,Others,Library,No,E-books,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,6-10,1-5,Fiction,Academic,Increase Academic Performance,Teachers,Bangla,Home,Yes,E-books,A few times a month
+Female,23,CSE,1,Academic Purpose,E-books,None,None,Fiction,Academic,Feel Relax,Teachers,Bangla,Home,No,E-books,Once or twice a year
+Female,21,CSE,2,Entertainment Purpose,Buy,1-5,6-10,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,A few times a month
+Female,22,CSE,2,Academic Purpose,Used-all,1-5,6-10,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,CSE,1,To increase my English vocabulary knowledge,Borrow,11-15,None,Others,Academic,Increase Creative Thinking,Parents,English,Library,No,Printed,A few times a week
+Male,22,CSE,1,Entertainment Purpose,Borrow,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,22,CSE,1,To increase my English vocabulary knowledge,E-books,1-5,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,22,CSE,1,Keep me informative,E-books,11-15,11-15,Politics,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,E-books,On everyday basis
+Male,22,CSE,2,Keep me informative,Used-all,1-5,11-15,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Female,22,CSE,2,Keep me informative,Buy,6-10,1-5,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Female,22,CSE,1,Entertainment Purpose,Borrow,More than 20,11-15,Fiction,Non-Academic,Feel Relax,Friends,English,During Travel,Yes,Printed,On everyday basis
+Male,22,CSE,1,Academic Purpose,E-books,More than 20,More than 20,Biography,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,23,CSE,1,Academic Purpose,Used-all,More than 20,None,Others,Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,E-books,A few times a week
+Male,22,CSE,1,Academic Purpose,E-books,More than 20,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,Once or twice a year
+Male,22,CSE,1,Academic Purpose,E-books,6-10,6-10,Fiction,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,A few times a week
+Female,22,CSE,2,Academic Purpose,Others,6-10,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Printed,On everyday basis
+Male,23,CSE,4,Academic Purpose,Used-all,None,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,E-books,On everyday basis
+Male,22,CSE,1,Academic Purpose,Buy,11-15,More than 20,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,23,CSE,1,Academic Purpose,Others,11-15,None,Politics,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,E-books,A few times a month
+Male,23,CSE,4,Entertainment Purpose,E-books,1-5,1-5,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,23,MCT,2,Keep me informative,Others,None,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,22,SWE,2,Entertainment Purpose,Buy,None,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Female,20,MCT,8,Entertainment Purpose,E-books,More than 20,None,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,On everyday basis
+Female,20,CSE,2,Academic Purpose,Others,6-10,6-10,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,Yes,Printed,A few times a week
+Male,23,EEE,1,Academic Purpose,E-books,16-20,1-5,Non-Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,E-books,A few times a month
+Male,22,Textile,1,Academic Purpose,Used-all,1-5,11-15,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Female,22,EEE,4,Keep me informative,E-books,16-20,1-5,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,E-books,On everyday basis
+Male,22,EEE,2,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,A few times a week
+Female,22,EEE,4,Keep me informative,Borrow,More than 20,More than 20,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Others,Home,Yes,E-books,A few times a month
+Male,21,EEE,2,Academic Purpose,E-books,More than 20,6-10,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Library,Yes,E-books,A few times a month
+Male,21,EEE,2,Academic Purpose,Buy,11-15,More than 20,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,23,EEE,2,Keep me informative,Used-all,1-5,6-10,Biography,Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Both,Less than once a year
+Male,22,EEE,4,Academic Purpose,Borrow,1-5,1-5,Biography,Academic,Increase Creative Thinking,Parents,English,Library,Yes,Both,A few times a month
+Male,20,Textile,4,Academic Purpose,Others,None,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,21,SWE,2,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Female,22,Pharmacy,1,Keep me informative,Buy,None,More than 20,Others,Academic,Increase Academic Performance,Parents,Bangla,Home,Yes,Printed,A few times a week
+Male,23,EEE,3,Keep me informative,Used-all,11-15,1-5,Others,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,Both,A few times a week
+Male,23,EEE,1,Keep me informative,E-books,More than 20,More than 20,Politics,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,During Travel,Yes,Both,A few times a week
+Male,23,EEE,1,Academic Purpose,Buy,1-5,11-15,Non-Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,21,EEE,2,Academic Purpose,Used-all,More than 20,11-15,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Library,No,Both,On everyday basis
+Male,22,EEE,3,Academic Purpose,Buy,None,More than 20,Others,Academic,Increase Academic Performance,Parents,Bangla,Home,Yes,Printed,A few times a week
+Male,23,Textile,1,Academic Purpose,E-books,6-10,11-15,Biography,Academic,Feel Relax,Self-Decision,English,Home,Yes,Printed,A few times a week
+Female,22,NFE,1,Academic Purpose,Others,1-5,1-5,Others,Academic,Feel Relax,Self-Decision,English,Home,No,Both,A few times a month
+Male,22,EEE,1,Academic Purpose,E-books,6-10,1-5,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,Once or twice a year
+Male,21,Textile,1,To increase my English vocabulary knowledge,E-books,11-15,None,Politics,Non-Academic,Feel Relax,Self-Decision,Bangla,Library,Yes,E-books,On everyday basis
+Male,22,BBA,1,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Academic Performance,Teachers,English,Home,Yes,Both,On everyday basis
+Male,22,BBA,1,Entertainment Purpose,Others,6-10,None,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,Less than once a year
+Male,22,BBA,1,Academic Purpose,Used-all,More than 20,6-10,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,No,Both,On everyday basis
+Female,20,BBA,2,Academic Purpose,Buy,1-5,6-10,Others,Academic,Increase Academic Performance,Parents,Bangla,Home,No,Both,A few times a week
+Female,22,BBA,1,Academic Purpose,Used-all,1-5,None,Biography,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a month
+Male,23,BBA,2,Academic Purpose,Buy,None,None,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Both,On everyday basis
+Female,20,BBA,2,Academic Purpose,E-books,1-5,More than 20,Politics,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,BBA,1,To increase my English vocabulary knowledge,E-books,1-5,None,Non-Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Library,Yes,Both,On everyday basis
+Male,22,BBA,1,Entertainment Purpose,Others,More than 20,None,Fiction,Academic,Increase Creative Thinking,Friends,Bangla,Library,Yes,Both,Less than once a year
+Male,21,BBA,1,Academic Purpose,E-books,11-15,16-20,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,A few times a week
+Male,22,Textile,2,Academic Purpose,E-books,6-10,6-10,Others,Academic,Increase Problem Solving Skill,Teachers,English,Home,Yes,E-books,On everyday basis
+Male,22,EEE,2,Academic Purpose,E-books,6-10,6-10,Others,Academic,Increase Academic Performance,Teachers,English,Library,Yes,E-books,A few times a week
+Male,23,EEE,1,Academic Purpose,Used-all,None,1-5,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Male,22,English,3,Keep me informative,Buy,More than 20,6-10,Non-Fiction,Academic,Increase Problem Solving Skill,Self-Decision,English,Library,No,Printed,A few times a month
+Male,21,EEE,1,To increase my English vocabulary knowledge,E-books,More than 20,6-10,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,23,EEE,1,Keep me informative,Used-all,1-5,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,EEE,1,Academic Purpose,Used-all,11-15,6-10,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,20,SWE,1,Entertainment Purpose,Borrow,1-5,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,A few times a week
+Female,21,Pharmacy,1,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,Pharmacy,1,Academic Purpose,Buy,None,1-5,Fiction,Academic,Increase Academic Performance,Parents,Bangla,Home,Yes,Printed,On everyday basis
+Male,20,Pharmacy,3,Academic Purpose,Borrow,6-10,More than 20,Biography,Academic,Increase Creative Thinking,Friends,Bangla,Library,No,E-books,A few times a week
+Female,21,Pharmacy,3,Academic Purpose,Used-all,6-10,11-15,Others,Academic,Increase Academic Performance,Self-Decision,English,Library,No,Both,On everyday basis
+Male,21,Pharmacy,2,Keep me informative,Used-all,None,None,Others,Academic,Increase Creative Thinking,Self-Decision,English,Library,No,Both,A few times a week
+Female,21,Pharmacy,1,Academic Purpose,Others,None,None,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,21,Pharmacy,2,Academic Purpose,Used-all,6-10,16-20,Biography,Academic,Increase Academic Performance,Self-Decision,English,Library,Yes,Printed,A few times a week
+Male,20,EEE,2,Keep me informative,Used-all,6-10,More than 20,Fiction,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,20,SWE,1,Keep me informative,Buy,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Male,22,SWE,1,Academic Purpose,Used-all,6-10,6-10,Politics,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,A few times a week
+Male,21,SWE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,23,SWE,2,To increase my English vocabulary knowledge,Borrow,11-15,1-5,Others,Academic,Feel Relax,Self-Decision,English,Library,Yes,Both,On everyday basis
+Male,21,SWE,4,Keep me informative,Used-all,More than 20,More than 20,Non-Fiction,Non-Academic,Increase Creative Thinking,Parents,English,Home,Yes,Both,A few times a week
+Male,22,EEE,1,Academic Purpose,E-books,1-5,1-5,Others,Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,E-books,A few times a week
+Female,22,NFE,2,Academic Purpose,Used-all,6-10,1-5,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,Yes,Both,A few times a week
+Female,23,NFE,1,Academic Purpose,E-books,11-15,None,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Female,22,NFE,1,Keep me informative,Others,None,None,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,E-books,Less than once a year
+Male,21,SWE,1,Academic Purpose,Others,None,None,Others,Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,Once or twice a year
+Female,22,NFE,1,Academic Purpose,Used-all,1-5,6-10,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,EEE,2,Academic Purpose,Borrow,1-5,None,Others,Academic,Increase Problem Solving Skill,Parents,Others,Home,Yes,Both,A few times a week
+Female,23,NFE,1,Academic Purpose,Others,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,During Travel,Yes,Both,A few times a week
+Male,22,BBA,1,Academic Purpose,E-books,16-20,6-10,Biography,Academic,Increase Academic Performance,Self-Decision,English,Library,No,E-books,A few times a week
+Male,20,BBA,2,To increase my English vocabulary knowledge,Buy,None,1-5,Others,Academic,Increase Problem Solving Skill,Friends,Bangla,Library,Yes,Printed,A few times a week
+Male,21,BBA,2,Academic Purpose,Buy,None,More than 20,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,21,BBA,2,Academic Purpose,Used-all,16-20,6-10,Others,Academic,Increase Creative Thinking,Teachers,Others,Library,Yes,Both,On everyday basis
+Female,20,BBA,2,Academic Purpose,Used-all,None,None,Others,Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,MCT,3,Keep me informative,Used-all,1-5,1-5,Fiction,Non-Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Both,A few times a week
+Male,20,BBA,1,Academic Purpose,Buy,None,1-5,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,Yes,Both,On everyday basis
+Female,21,BBA,2,Academic Purpose,Used-all,6-10,More than 20,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Female,21,BBA,1,Entertainment Purpose,Used-all,More than 20,11-15,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a month
+Female,21,BBA,4,Academic Purpose,Used-all,1-5,None,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,On everyday basis
+Male,23,BBA,2,To increase my English vocabulary knowledge,E-books,1-5,6-10,Biography,Academic,Increase Creative Thinking,Parents,English,Home,Yes,Both,A few times a week
+Male,22,BBA,1,Academic Purpose,Used-all,1-5,More than 20,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Printed,On everyday basis
+Male,22,BBA,1,Academic Purpose,E-books,More than 20,6-10,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,BBA,3,Academic Purpose,Buy,6-10,More than 20,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,22,English,2,To increase my English vocabulary knowledge,Buy,11-15,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a month
+Female,21,English,4,To increase my English vocabulary knowledge,Used-all,16-20,6-10,Fiction,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Printed,A few times a week
+Female,22,English,1,Academic Purpose,Buy,None,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Printed,On everyday basis
+Female,22,English,1,Academic Purpose,Buy,None,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Printed,On everyday basis
+Male,23,English,2,Keep me informative,Used-all,16-20,16-20,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,22,English,2,Keep me informative,Used-all,6-10,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Female,21,English,1,Entertainment Purpose,Used-all,16-20,6-10,Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Library,No,Both,On everyday basis
+Female,21,English,1,Academic Purpose,Used-all,More than 20,11-15,Others,Non-Academic,Increase Creative Thinking,Parents,English,Home,Yes,Printed,A few times a week
+Female,21,English,1,Academic Purpose,Buy,11-15,6-10,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,A few times a month
+Male,21,English,1,Entertainment Purpose,Buy,11-15,11-15,Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,No,Printed,A few times a week
+Female,22,English,1,Academic Purpose,Buy,11-15,11-15,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Printed,A few times a week
+Male,22,SWE,2,Keep me informative,E-books,11-15,6-10,Non-Fiction,Non-Academic,Increase Problem Solving Skill,Parents,Bangla,Home,No,Both,A few times a week
+Male,22,SWE,1,Academic Purpose,E-books,6-10,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,E-books,A few times a month
+Male,22,SWE,1,Academic Purpose,E-books,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,E-books,Once or twice a year
+Male,23,SWE,2,Keep me informative,E-books,11-15,1-5,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,English,Home,No,Both,A few times a week
+Male,22,SWE,1,Academic Purpose,E-books,1-5,1-5,Biography,Academic,Increase Problem Solving Skill,Teachers,Bangla,Home,Yes,Printed,On everyday basis
+Male,23,SWE,1,Keep me informative,Buy,1-5,6-10,Others,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Both,On everyday basis
+Female,22,SWE,1,Academic Purpose,E-books,6-10,16-20,Fiction,Non-Academic,Feel Relax,Friends,Bangla,Home,No,Both,A few times a week
+Female,21,NFE,4,Academic Purpose,Used-all,1-5,More than 20,Others,Academic,Increase Academic Performance,Teachers,English,Library,No,Both,On everyday basis
+Female,22,NFE,1,Keep me informative,Borrow,None,1-5,Non-Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,No,Printed,A few times a month
+Female,22,NFE,3,Entertainment Purpose,Used-all,11-15,More than 20,Fiction,Non-Academic,Feel Relax,Parents,Bangla,Home,No,Printed,On everyday basis
+Female,21,NFE,4,Entertainment Purpose,Used-all,11-15,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,22,NFE,1,Keep me informative,Used-all,6-10,6-10,Fiction,Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Printed,A few times a week
+Female,21,NFE,4,Keep me informative,Used-all,1-5,More than 20,Non-Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,NFE,1,Academic Purpose,Used-all,1-5,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a month
+Female,21,NFE,3,Academic Purpose,Used-all,1-5,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Female,23,NFE,2,Keep me informative,Borrow,None,More than 20,Non-Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,During Travel,No,Printed,A few times a week
+Male,20,NFE,1,Academic Purpose,E-books,1-5,1-5,Others,Academic,Increase Creative Thinking,Teachers,Bangla,Library,Yes,E-books,On everyday basis
+Female,21,NFE,2,To increase my English vocabulary knowledge,Others,1-5,None,Others,Academic,Feel Relax,Friends,Bangla,Home,Yes,Both,On everyday basis
+Male,22,NFE,1,To increase my English vocabulary knowledge,Used-all,1-5,More than 20,Others,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,Both,On everyday basis
+Female,21,NFE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Female,18,NFE,1,Entertainment Purpose,Borrow,None,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Female,21,SWE,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,E-books,A few times a month
+Male,23,EEE,3,Academic Purpose,Used-all,11-15,16-20,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Library,No,Both,On everyday basis
+Male,23,SWE,2,Academic Purpose,Used-all,6-10,More than 20,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,Textile,2,To increase my English vocabulary knowledge,Used-all,6-10,11-15,Non-Fiction,Non-Academic,Increase Creative Thinking,Parents,English,Home,No,Printed,A few times a week
+Female,22,NFE,3,Academic Purpose,Buy,None,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,A few times a month
+Female,22,NFE,1,Academic Purpose,Others,None,More than 20,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,Once or twice a year
+Female,20,Textile,2,Keep me informative,Used-all,1-5,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Printed,A few times a week
+Male,22,Textile,1,Academic Purpose,E-books,16-20,16-20,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Both,On everyday basis
+Male,21,Textile,1,Academic Purpose,Used-all,11-15,1-5,Others,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,A few times a week
+Female,21,Textile,1,Academic Purpose,E-books,6-10,6-10,Biography,Academic,Increase Academic Performance,Self-Decision,English,Library,No,Both,A few times a week
+Male,19,Textile,1,Academic Purpose,E-books,11-15,6-10,Biography,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,E-books,A few times a week
+Male,21,Textile,2,Academic Purpose,Used-all,6-10,6-10,Fiction,Academic,Increase Problem Solving Skill,Parents,English,Home,Yes,Both,A few times a week
+Female,21,NFE,1,Entertainment Purpose,Used-all,1-5,6-10,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Female,22,NFE,2,Academic Purpose,Others,None,1-5,Others,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,No,Printed,A few times a week
+Male,21,Textile,4,Academic Purpose,Used-all,More than 20,More than 20,Others,Academic,Increase Academic Performance,Parents,Bangla,Home,No,Both,On everyday basis
+Female,22,BBA,1,To increase my English vocabulary knowledge,Others,1-5,1-5,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,Yes,Both,A few times a week
+Male,21,BBA,1,Academic Purpose,Borrow,1-5,None,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,Yes,Both,A few times a month
+Male,22,BBA,2,Academic Purpose,Used-all,6-10,11-15,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,22,BBA,1,Academic Purpose,Buy,1-5,11-15,Politics,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Female,21,BBA,1,Academic Purpose,Used-all,6-10,11-15,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,E-books,A few times a week
+Female,22,BBA,1,Academic Purpose,Used-all,6-10,More than 20,Non-Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,During Travel,Yes,Both,A few times a month
+Female,20,MCT,4,Keep me informative,Used-all,1-5,More than 20,Others,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Library,Yes,Both,On everyday basis
+Female,21,CSE,1,Academic Purpose,Used-all,11-15,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,23,CSE,1,Keep me informative,Others,6-10,6-10,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Printed,A few times a week
+Female,20,Pharmacy,1,To increase my English vocabulary knowledge,Buy,1-5,None,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Printed,A few times a week
+Male,20,Pharmacy,4,Academic Purpose,Others,1-5,None,Others,Academic,Increase Academic Performance,Self-Decision,English,Library,No,Printed,Once or twice a year
+Female,20,Pharmacy,2,Academic Purpose,Buy,None,6-10,Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,On everyday basis
+Male,21,Pharmacy,3,Keep me informative,Used-all,6-10,More than 20,Non-Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,Pharmacy,4,Academic Purpose,E-books,1-5,More than 20,Biography,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,23,CSE,1,Academic Purpose,E-books,6-10,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a week
+Female,20,Pharmacy,1,To increase my English vocabulary knowledge,Used-all,None,None,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,Once or twice a year
+Female,20,Pharmacy,4,Academic Purpose,Used-all,More than 20,16-20,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Female,18,Pharmacy,2,Academic Purpose,Used-all,1-5,More than 20,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,On everyday basis
+Female,19,Pharmacy,2,Entertainment Purpose,Used-all,1-5,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,Pharmacy,1,Academic Purpose,E-books,1-5,1-5,Non-Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,On everyday basis
+Female,20,Pharmacy,2,To increase my English vocabulary knowledge,Others,1-5,More than 20,Politics,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Both,A few times a week
+Male,19,Pharmacy,1,Entertainment Purpose,Buy,6-10,1-5,Non-Fiction,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,A few times a week
+Female,19,Pharmacy,1,Academic Purpose,Used-all,1-5,1-5,Fiction,Academic,Increase Academic Performance,Teachers,Bangla,Home,No,Both,On everyday basis
+Male,22,BBA,1,Academic Purpose,E-books,6-10,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,During Travel,Yes,E-books,On everyday basis
+Male,22,BBA,3,Academic Purpose,Buy,16-20,1-5,Fiction,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,Both,On everyday basis
+Male,21,BBA,1,Academic Purpose,Buy,1-5,11-15,Others,Academic,Feel Relax,Parents,English,Library,No,Both,A few times a week
+Female,20,BBA,2,Academic Purpose,Others,None,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Both,Once or twice a year
+Male,21,BBA,1,Academic Purpose,Used-all,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Library,No,Both,A few times a month
+Female,20,BBA,1,To increase my English vocabulary knowledge,Used-all,11-15,6-10,Fiction,Non-Academic,Feel Relax,Teachers,Bangla,Home,Yes,Both,On everyday basis
+Male,20,Pharmacy,4,Academic Purpose,Used-all,1-5,11-15,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,21,BBA,2,Academic Purpose,E-books,6-10,1-5,Others,Academic,Feel Relax,Self-Decision,English,Home,Yes,Printed,On everyday basis
+Female,21,CSE,1,Academic Purpose,E-books,11-15,6-10,Biography,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,20,MCT,3,Academic Purpose,E-books,11-15,11-15,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Both,Once or twice a year
+Male,19,Textile,1,To increase my English vocabulary knowledge,Buy,1-5,None,Politics,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,21,SWE,1,To increase my English vocabulary knowledge,E-books,6-10,1-5,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,E-books,Once or twice a year
+Male,22,CSE,1,Academic Purpose,Buy,1-5,1-5,Biography,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Printed,On everyday basis
+Male,23,CSE,1,Keep me informative,Buy,More than 20,More than 20,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Male,21,Textile,1,To increase my English vocabulary knowledge,E-books,More than 20,More than 20,Biography,Academic,Feel Relax,Friends,Bangla,Home,Yes,Both,A few times a month
+Female,18,Textile,4,Keep me informative,Borrow,11-15,More than 20,Biography,Academic,Increase Academic Performance,Self-Decision,English,Library,Yes,Both,On everyday basis
+Male,22,SWE,2,Keep me informative,Used-all,More than 20,6-10,Politics,Academic,Increase Creative Thinking,Parents,Bangla,Home,Yes,Both,On everyday basis
+Male,22,Textile,3,To increase my English vocabulary knowledge,Borrow,6-10,More than 20,Others,Non-Academic,Feel Relax,Friends,English,Library,Yes,E-books,On everyday basis
+Male,22,Textile,1,Entertainment Purpose,E-books,16-20,6-10,Others,Non-Academic,Feel Relax,Friends,Bangla,Library,No,E-books,A few times a month
+Female,21,CIS,1,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Teachers,English,Library,Yes,Both,A few times a week
+Male,22,Pharmacy,2,Academic Purpose,Others,1-5,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a week
+Female,20,Pharmacy,1,Academic Purpose,Others,1-5,1-5,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,20,MCT,1,Entertainment Purpose,Borrow,11-15,6-10,Fiction,Non-Academic,Feel Relax,Self-Decision,Bangla,Library,Yes,Printed,A few times a week
+Female,21,SWE,1,Keep me informative,E-books,1-5,6-10,Others,Non-Academic,Feel Relax,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,21,BBA,2,Academic Purpose,Buy,1-5,11-15,Fiction,Academic,Increase Creative Thinking,Teachers,English,Home,Yes,Both,A few times a week
+Male,21,MCT,2,Academic Purpose,E-books,6-10,11-15,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,20,MCT,4,To increase my English vocabulary knowledge,Used-all,6-10,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,E-books,On everyday basis
+Female,20,MCT,2,Keep me informative,Used-all,1-5,1-5,Others,Non-Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Both,A few times a month
+Male,19,MCT,1,Academic Purpose,Buy,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,Others,Home,No,E-books,On everyday basis
+Male,20,MCT,1,Keep me informative,Borrow,6-10,None,Fiction,Non-Academic,Increase Creative Thinking,Friends,English,Home,No,Printed,On everyday basis
+Male,20,Textile,1,Academic Purpose,Buy,1-5,16-20,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Male,20,Textile,2,Keep me informative,Buy,6-10,6-10,Non-Fiction,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Both,A few times a week
+Male,20,Textile,1,Academic Purpose,Used-all,More than 20,More than 20,Others,Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Both,A few times a week
+Male,20,Textile,1,Academic Purpose,Buy,None,6-10,Biography,Academic,Increase Problem Solving Skill,Teachers,Bangla,Home,Yes,Printed,On everyday basis
+Male,19,Textile,1,Academic Purpose,Buy,1-5,6-10,Fiction,Non-Academic,Increase Problem Solving Skill,Friends,Bangla,Library,No,Both,A few times a month
+Male,20,Textile,1,To increase my English vocabulary knowledge,Borrow,1-5,1-5,Non-Fiction,Academic,Feel Relax,Friends,English,Home,Yes,E-books,A few times a week
+Male,21,Textile,3,Academic Purpose,Used-all,6-10,1-5,Fiction,Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Both,A few times a week
+Male,21,Textile,1,Academic Purpose,Others,None,None,Others,Academic,Feel Relax,Parents,Bangla,Home,No,Printed,A few times a week
+Male,22,BBA,1,Academic Purpose,Buy,None,None,Others,Academic,Increase Academic Performance,Parents,Bangla,Home,No,Both,On everyday basis
+Male,22,BBA,2,Academic Purpose,Buy,11-15,1-5,Others,Academic,Increase Academic Performance,Self-Decision,English,Library,Yes,Both,A few times a week
+Male,22,BBA,2,Academic Purpose,Buy,None,More than 20,Others,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Printed,On everyday basis
+Female,22,BBA,1,To increase my English vocabulary knowledge,Others,1-5,1-5,Non-Fiction,Academic,Feel Relax,Self-Decision,Bangla,Home,No,Both,On everyday basis
+Female,21,BBA,2,Academic Purpose,Buy,1-5,11-15,Fiction,Academic,Increase Problem Solving Skill,Teachers,English,Home,Yes,Both,On everyday basis
+Male,20,Civil,3,Academic Purpose,Used-all,6-10,6-10,Others,Academic,Increase Creative Thinking,Self-Decision,English,Library,No,Both,On everyday basis
+Male,20,Civil,1,Academic Purpose,Used-all,None,None,Others,Academic,Increase Creative Thinking,Parents,English,Home,No,Both,On everyday basis
+Male,20,Civil,2,Academic Purpose,E-books,1-5,6-10,Others,Academic,Feel Relax,Self-Decision,Bangla,Home,No,E-books,On everyday basis
+Male,21,Civil,1,Academic Purpose,Buy,None,6-10,Biography,Academic,Feel Relax,Parents,Bangla,Home,Yes,Both,Less than once a year
+Female,21,CSE,2,Keep me informative,Buy,6-10,6-10,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,No,Printed,On everyday basis
+Male,21,CSE,1,Academic Purpose,E-books,More than 20,6-10,Fiction,Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,19,Pharmacy,2,Academic Purpose,Buy,11-15,1-5,Fiction,Academic,Increase Problem Solving Skill,Friends,Bangla,Home,Yes,Printed,On everyday basis
+Female,21,BBA,2,Keep me informative,Used-all,More than 20,More than 20,Others,Academic,Increase Creative Thinking,Parents,Others,Home,Yes,Both,A few times a week
+Male,20,BBA,1,Academic Purpose,Used-all,11-15,11-15,Others,Academic,Increase Academic Performance,Self-Decision,English,Home,Yes,Both,A few times a week
+Male,19,Textile,4,Keep me informative,Buy,None,1-5,Others,Academic,Increase Problem Solving Skill,Teachers,English,Home,Yes,Printed,A few times a week
+Male,20,Textile,1,Academic Purpose,Buy,1-5,6-10,Biography,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Male,22,Textile,1,Entertainment Purpose,Used-all,11-15,6-10,Fiction,Non-Academic,Feel Relax,Friends,Bangla,Home,No,Both,A few times a week
+Male,21,Textile,3,Academic Purpose,Others,1-5,1-5,Biography,Academic,Increase Creative Thinking,Teachers,English,Library,Yes,E-books,On everyday basis
+Female,19,Pharmacy,4,Academic Purpose,Used-all,1-5,16-20,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,Yes,Both,On everyday basis
+Female,20,Pharmacy,2,Entertainment Purpose,Borrow,None,1-5,Others,Academic,Feel Relax,Parents,Bangla,Home,No,Printed,A few times a month
+Female,21,NFE,4,To increase my English vocabulary knowledge,Buy,1-5,1-5,Others,Non-Academic,Feel Relax,Parents,Bangla,Library,Yes,Printed,A few times a week
+Female,22,Pharmacy,2,Academic Purpose,Buy,1-5,1-5,Non-Fiction,Academic,Increase Academic Performance,Self-Decision,English,Home,No,Both,On everyday basis
+Male,21,Textile,1,Keep me informative,Buy,1-5,16-20,Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,Bangla,Home,Yes,Printed,A few times a week
+Male,20,Pharmacy,3,Academic Purpose,Buy,1-5,6-10,Fiction,Academic,Increase Academic Performance,Teachers,English,Home,No,Printed,A few times a week
+Male,22,BBA,2,Keep me informative,Buy,1-5,1-5,Biography,Academic,Increase Problem Solving Skill,Self-Decision,English,Home,Yes,E-books,A few times a week
+Female,20,Pharmacy,2,Academic Purpose,Used-all,More than 20,1-5,Fiction,Non-Academic,Feel Relax,Self-Decision,English,During Travel,No,Both,A few times a week
+Male,20,Civil,2,Keep me informative,Used-all,6-10,1-5,Others,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,E-books,On everyday basis
+Female,21,Pharmacy,4,Academic Purpose,Buy,None,More than 20,Fiction,Academic,Increase Problem Solving Skill,Self-Decision,Bangla,Home,Yes,Printed,On everyday basis
+Female,21,Pharmacy,4,Academic Purpose,Used-all,More than 20,More than 20,Fiction,Academic,Increase Creative Thinking,Friends,Bangla,Home,Yes,Both,A few times a week
+Female,19,Pharmacy,1,Entertainment Purpose,E-books,6-10,More than 20,Fiction,Non-Academic,Increase Creative Thinking,Parents,Bangla,Home,No,Printed,A few times a week
+Female,21,Pharmacy,3,Academic Purpose,Used-all,1-5,1-5,Others,Academic,Increase Problem Solving Skill,Teachers,English,Library,No,Both,On everyday basis
+Male,22,Pharmacy,1,Academic Purpose,Buy,1-5,11-15,Politics,Non-Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Printed,A few times a week
+Female,20,CSE,4,Academic Purpose,Used-all,1-5,1-5,Fiction,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,A few times a month
+Male,23,MCT,1,Academic Purpose,E-books,1-5,1-5,Fiction,Academic,Increase Creative Thinking,Teachers,Bangla,Home,No,Both,A few times a week
+Male,22,MCT,1,Keep me informative,E-books,6-10,16-20,Fiction,Non-Academic,Increase Creative Thinking,Teachers,Bangla,Home,Yes,Both,A few times a month
+Female,20,CSE,3,Academic Purpose,Buy,1-5,1-5,Biography,Academic,Increase Creative Thinking,Parents,English,Library,Yes,Printed,On everyday basis
+Male,21,CSE,1,Academic Purpose,Others,1-5,1-5,Others,Academic,Increase Academic Performance,Self-Decision,Bangla,Home,No,Both,Once or twice a year
+Male,22,CSE,3,Academic Purpose,E-books,11-15,6-10,Fiction,Academic,Increase Creative Thinking,Friends,Bangla,Home,No,Both,A few times a week
+Male,20,Pharmacy,2,Entertainment Purpose,Borrow,None,More than 20,Others,Non-Academic,Feel Relax,Self-Decision,Bangla,Home,No,Printed,A few times a week
+Male,22,Textile,3,Keep me informative,Used-all,6-10,1-5,Non-Fiction,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,No,Both,A few times a week
+Male,19,EEE,1,Academic Purpose,E-books,More than 20,6-10,Politics,Academic,Increase Creative Thinking,Teachers,English,Library,Yes,E-books,A few times a week
+Male,21,MCT,2,To increase my English vocabulary knowledge,Used-all,6-10,6-10,Biography,Non-Academic,Increase Creative Thinking,Self-Decision,English,Home,Yes,Both,A few times a week
+Female,21,NFE,4,Academic Purpose,Others,6-10,1-5,Others,Academic,Increase Problem Solving Skill,Teachers,Bangla,During Travel,Yes,Both,A few times a month
